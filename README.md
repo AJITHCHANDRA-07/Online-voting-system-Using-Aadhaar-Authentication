@@ -1,6 +1,5 @@
 # Online Voting System for Elections
- It is a desktop application made with socket programming in Python. It uses synchronous multithreading. 
- 
+  
 For details on this project, please read the <a href="https://github.com/AJITHCHANDRA-07/Online-voting-system-Using-Aadhaar-Authentication/blob/main/Electronic%20Voting%20System%20Using%20Aadhar%20Aunthentication%20report.pdf" target="_blank">Report</a>.
 ![logo](https://plus.unsplash.com/premium_photo-1683121710572-7723bd2e235d?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTJ8fGFpfGVufDB8fDB8fHwx)
 <h1 align="center">Hi ,I'm AJITHCHANDRA
